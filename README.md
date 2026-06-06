@@ -4,11 +4,11 @@ A premium, futuristic landing page for FTG (Fun To Grow), a next-generation gami
 
 ## 🚀 Live Demo
 
-[View Live Deployment](#)
+https://ftg-landing-page.vercel.app
 
 ## 📁 GitHub Repository
 
-[GitHub Repository Link](#)
+https://github.com/fyymaah/ftg-landing-page
 
 ## 🎨 Design Decisions
 
